@@ -4,7 +4,7 @@ import tensorflow as tf
 import numpy as np
 from PIL import Image, ImageOps
 
-MODEL_PATH = "banana_model.tflite"
+MODEL_PATH = "freshness_model(1).tflite"
 
 # Change these labels to match the EXACT class order
 # used when training your model in Colab.
